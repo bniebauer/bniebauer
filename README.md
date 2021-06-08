@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning ... More about 💻 SwiftUI. This ability to write applications that span iOS, iPadOS, WatchOS, MacOS, and TVOS will change the landscape that software is built on.
 - 💞️ I’m looking to collaborate on ... Applications that utilize the power and mobility of the iPad.
 - 📫 How to reach me ... You can reach me via email: b.niebauer@me.com
+-  [LinkedIn](https://www.linkedin.com/in/brenton-niebauer-80694180/)
+-  [Twitter](https://twitter.com/niebauerb)
 
 <!---
 bniebauer/bniebauer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
